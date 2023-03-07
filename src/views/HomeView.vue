@@ -44,7 +44,7 @@ export default {
   async mounted() {
     if (localStorage.getItem("token")) {
       this.error = false;
-      const url = "http://cors-anywhere.herokuapp.com/http://interview.pluginesia.com/jsonTest";
+      const url = "https://cors-anywhere.herokuapp.com/http://interview.pluginesia.com/jsonTest";
 
       const response = await fetch(url, {
         headers: {
