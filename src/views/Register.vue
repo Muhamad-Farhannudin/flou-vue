@@ -47,7 +47,7 @@ export default {
   },
   methods: {
     async register() {
-      const url = "http://cors-anywhere.herokuapp.com/http://interview.pluginesia.com/register";
+      const url = "https://cors-anywhere.herokuapp.com/http://interview.pluginesia.com/register";
 
       const data = `{
   	"email": "${this.email}",
