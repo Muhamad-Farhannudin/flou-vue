@@ -1,6 +1,6 @@
 <template lang="">
     <div>
-        <router-view></router-view>
+        <h1 class="font-extrabold text-white text-2xl">Flou</h1>
     </div>
 </template>
 <script>

@@ -1,0 +1,109 @@
+{
+    "product": {
+        "menu": {
+            "item": [
+                {
+                    "title": "Why Flou",
+                    "url": "http://dummy.com/why"
+                },
+                {
+                    "title": "Products",
+                    "url": "http://products"
+                },
+                {
+                    "title": "solution",
+                    "url": "http://solution",
+                    "items": {
+                        "item": [
+                            {
+                                "title": "Solution 1",
+                                "url": "http://products"
+                            },
+                            {
+                                "title": "Solution 2",
+                                "url": "http://products"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "title": "Flou Cloud Product",
+        "description": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+        "product-data": {
+            "item": [
+                {
+                    "title": "Infrastructure As A Service",
+                    "subtitle": "Explore infrastructure as a service Production (Iaas)",
+                    "desc": "Helping to accelerate the business through strong and resilient infrastructure for unlimited customer experience.",
+                    "url": "http://dummy.com/why",
+                    "product": [
+                        {
+                            "category": "FLOU Cloud",
+                            "item": [
+                                {
+                                    "title": "FLOU Cloud",
+                                    "url": "http://example.com",
+                                    "desc": "Elastic Compute Service, Compute High\nPerformance, Auto Scalling, Container"
+                                },
+                                {
+                                    "title": "FLOU Network",
+                                    "url": "http://example.com",
+                                    "desc": "Elastic IP, Server Load Balancer"
+                                },
+                                {
+                                    "title": "FLOU Security",
+                                    "url": "http://example.com",
+                                    "desc": "Anti DDoS, Web Application Firewall WAF,\nServer Guard"
+                                },
+                                {
+                                    "title": "FLOU Storage",
+                                    "url": "http://example.com",
+                                    "desc": "Object Storage Service, Block Storage"
+                                }
+                            ]
+                        },
+                        {
+                            "category": "Telkom Cloud",
+                            "item": [
+                                {
+                                    "title": "Telkom Cloud Compute",
+                                    "url": "http://example.com",
+                                    "desc": "Virtual server service with CPU and RAM\nresources"
+                                },
+                                {
+                                    "title": "Telkom Cloud Network",
+                                    "url": "http://example.com",
+                                    "desc": "Public or Private Cloud infrastructure\nsupport services that enable\ncommunication"
+                                }
+                            ]
+                        },
+                        {
+                            "category": "BackUp Service",
+                            "item": [
+                                {
+                                    "title": "Cloud BackUp Service Veem",
+                                    "url": "http://example.com",
+                                    "desc": "Object Storage Service (OSS) is an\nencrypted object storage service"
+                                },
+                                {
+                                    "title": "Cloud BackUp HBR",
+                                    "url": "http://example.com",
+                                    "desc": "Object Storage Service (OSS) is an\nencrypted object storage service"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Software As A Service",
+                    "url": "http://products"
+                },
+                {
+                    "title": "Service",
+                    "url": "http://products"
+                }
+            ]
+        }
+    }
+}
