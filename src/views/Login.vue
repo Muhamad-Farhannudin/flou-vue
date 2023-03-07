@@ -35,7 +35,7 @@ export default {
   },
   methods: {
     async login() {
-      const url = "http://cors-anywhere.herokuapp.com/http://interview.pluginesia.com/login";
+      const url = "https://cors-anywhere.herokuapp.com/http://interview.pluginesia.com/login";
       const data = `{
   	"email": "${this.email}",
     "password": "${this.password}"}`;
