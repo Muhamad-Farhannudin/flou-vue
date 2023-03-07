@@ -10,7 +10,7 @@
                 <div class="w-5 h-5">
                     <svg fill="#fff" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path d="M759.2 419.8L697.4 358 512 543.4 326.6 358l-61.8 61.8L512 667z"></path></g></svg>
                 </div>
-                <router-link to="/register">
+                <router-link to="/">
                     <button class="px-3 font-normal text-base">Sign Up</button>
                 </router-link>
             </div>
