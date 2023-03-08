@@ -17,6 +17,9 @@
     <div v-else>
       <Navbar />
       <FlouCloud :data="data" />
+        <div class="flex justify-center items-center cursor-pointer transition-all hover:translate-y-2 duration-300 fixed bottom-10 right-10 w-20 h-20 bg-white border border-slate-300 shadow-xl rounded-full">
+          <h3 class="font-bold text-dark-green text-2xl">Flou</h3>
+        </div>
       <Footer />
     </div>
   </div>
